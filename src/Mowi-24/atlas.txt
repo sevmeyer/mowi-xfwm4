@@ -1,0 +1,21 @@
+top-left         02x24+000+00 active inactive
+top-right        02x24+190+00 active inactive
+left             02x12+000+24 active inactive
+right            02x12+190+24 active inactive
+bottom-left      02x02+000+36 active inactive
+bottom           20x02+170+36 active inactive
+bottom-right     02x02+190+36 active inactive
+title-1          08x24+002+00 active inactive
+title-2          08x24+002+00 active inactive
+title-3          08x24+002+00 active inactive
+title-4          08x24+002+00 active inactive
+title-5          08x24+002+00 active inactive
+menu             20x24+010+00 active inactive prelight pressed
+shade            20x24+030+00 active inactive prelight pressed
+shade-toggled    20x24+050+00 active inactive prelight pressed
+stick            20x24+070+00 active inactive prelight pressed
+stick-toggled    20x24+090+00 active inactive prelight pressed
+hide             20x24+110+00 active inactive prelight pressed
+maximize         20x24+130+00 active inactive prelight pressed
+maximize-toggled 20x24+150+00 active inactive prelight pressed
+close            20x24+170+00 active inactive prelight pressed

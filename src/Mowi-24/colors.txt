@@ -1,0 +1,7 @@
+#222222 inactive_shadow_2
+#444444 active_shadow_1
+#555555 active_color_1
+#777777 inactive_color_2
+#888888 active_color_2
+#BBBBBB inactive_text_color
+#EEEEEE active_text_color
