@@ -6,7 +6,7 @@ Mowi
 A modest window theme for [xfwm4].
 
 Picks up system colors. Title bar sizes
-24, 48, 72, and 96. Distributed under the [CC0].
+24, 32, 48, 64, 72, 96. Distributed under the [CC0].
 
 [xfwm4]: https://docs.xfce.org/xfce/xfwm4/start
 [CC0]: https://creativecommons.org/publicdomain/zero/1.0
